@@ -71,6 +71,7 @@ Finder_ShowStatusBar: false                      # Show Status Bar
 Finder_ShowSidebar: true                         # Show Side Bar
 Finder_ColumnShowIcons: true                     # Show Preview
 Finder_FXShowPosixPathInTitle: false            # Show full POSIX path as Finder window title
+Finder_QuitMenuItem: false                        # Show Quit Menu
 
 General_Enabled: false                           # Enable General configuration
 General_AppleAquaColorVariant: 1                 # Set appearance (1: Blue, 6: Graphite)

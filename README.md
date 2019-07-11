@@ -70,6 +70,31 @@ Dock_ShowRecentApps: true 						 # Show recent applications in Dock
 Dock_ShowHidden: false                           # Display translucent Dock icons for hidden applications
 ```
 
+
+```
+Finder_Enabled: false                            # Enable Finder configuration
+Finder_ShowHardDrivesOnDesktop: false            # Show hard drives on the desktop
+Finder_ShowExternalHardDrivesOnDesktop: true     # Show external hard drives on the desktop
+Finder_ShowRemovableMediaOnDesktop: true         # Show CDs,DVDs and iPods on the desktop
+Finder_ShowMountedServersOnDesktop: false        # Show connected servers on the desktop
+Finder_NewWindowTarget: "PfAF"                   # New Finder windows shows (PfCm:Computer, PfVo:Computer's HD, PfHm:Home, PfDe:Desktop, PfDo:Documents, PfAF:All My files )
+Finder_FinderSpawnTab: true                      # Open folders in tabs instead of new windows
+Finder_AppleShowAllExtensions: false             # Show all fiename extensions
+Finder_FXEnableExtensionChangeWarning: true      # Show warning before changing an extension
+Finder_WarnOnEmptyTrash: false                   # Show warning before emptying the trash
+Finder_FXDefaultSearchScope: "SCev"              # When performing a search (SCev:Search This Mac, SCcf:Search the Current Folder, SCsp:Use the Previous Search Scope)
+Finder_AppleShowAllFiles: false                  # Show hidden files
+Finder_FXPreferredViewStyle: "icnv"              # View as (icnv:Icons, Nlsv:List, clmv:Column, Flwv:Cover Flow)
+Finder_FXPreferredGroupBy: "None"                # Arrange By (None, Name, Application Category, Date Last Opened, Date Added, Size, Finder Tags)
+Finder_ShowTabView: true                         # Show Tab Bar
+Finder_ShowPathbar: false                        # Show Path Bar
+Finder_ShowStatusBar: false                      # Show Status Bar
+Finder_ShowSidebar: true                         # Show Side Bar
+Finder_ColumnShowIcons: true                     # Show Preview
+Finder_FXShowPosixPathInTitle: false            # Show full POSIX path as Finder window title
+Finder_QuitMenuItem: false                        # Show Quit Menu
+```
+
 ```
 General_Enabled: false                           # Enable General configuration
 General_AppleAquaColorVariant: 1                 # Set appearance (1: Blue, 6: Graphite)
